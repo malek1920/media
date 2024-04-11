@@ -1,0 +1,19 @@
+.navbar{
+    border: solid 1px black;
+    background-color: #1877f2;
+    margin-bottom: 10px;
+
+}
+
+.link-page{
+    color: rgb(65, 64, 64);
+    font-size: 20px;
+    padding:20px;
+
+}
+.nav-sign{
+    padding:5px;
+    font-size: 20px;
+    color: rgb(80, 79, 78);
+
+}

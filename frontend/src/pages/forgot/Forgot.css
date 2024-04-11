@@ -1,0 +1,31 @@
+
+.forgot{
+    margin: 10vh auto;   
+    width: 80vw;
+    height: 60vh;
+    border: 2px solid black;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 0 5px rgba(190,187,187,6);
+    display: flex
+   }
+.forgot-cover{
+    background-image: url('../../components/assets/img2.jpg');
+    background-size: cover ;
+    width: 50%;
+    height: 100%;
+}
+
+.forgot-form{
+    width: 50%;
+    text-align: center;
+    margin-top: 100px;
+}
+.btn1{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.forgot-form-forgot{
+    margin-left: 100px;
+    
+}

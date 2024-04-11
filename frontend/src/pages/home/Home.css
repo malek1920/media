@@ -1,0 +1,22 @@
+.prof-home{
+    border: 2px solid rgb(178, 176, 176);
+    margin-top: 30px;
+    padding-left: 10px;
+    
+}
+.name-home{
+    margin-left: 100px;
+}
+
+.photo-home{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.desc-home{
+    margin-left: 20px;
+}

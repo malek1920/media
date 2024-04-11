@@ -1,0 +1,29 @@
+.friend{
+    border: 1px black solid;
+}
+
+.btn-delet{
+    background-color:#406a7c;
+    width: 100px;
+    margin-right: 300px;
+    margin: 10px; 
+    
+}
+.btn-edit{
+    background-color: #ff9800;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.pict{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 20px;
+    margin-left: 400px;
+}
+.user{
+margin-left: 30px;
+
+}

@@ -1,0 +1,24 @@
+.prof{
+    border: 2px solid rgb(178, 176, 176);
+    margin-top: 30px;
+    padding-left: 10px;
+    
+}
+
+.desc{
+    margin-left: 2px;
+}
+
+.name{
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+.photo{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 20px;
+    margin-left: 40px;
+}

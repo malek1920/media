@@ -1,0 +1,21 @@
+.edit{
+    padding-top: 18%;
+    margin: 10vh auto;   
+    width: 80vw;
+    height:    110vh;
+    border: 2px solid black;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 0 5px rgba(190,187,187,6);
+    display: flex
+   }
+   
+   .edit-content{
+   width: 1000%;
+   text-align: center;
+   }
+   .button.hover{
+       cursor: pointer;
+       background-color: aqua;
+       color: azure;
+   }

@@ -1,0 +1,17 @@
+.info{
+    border: solid 2px gray;
+}
+.post-all{
+    width:100% ;
+    height: 400px;
+}
+.info1{
+    margin-left: 20px;
+}
+.icon-delet{
+    color: red;
+    width:  100px;
+    height: 30px;
+    margin-left: 480px;
+    
+}
